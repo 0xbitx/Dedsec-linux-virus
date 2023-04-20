@@ -12,7 +12,7 @@
 | sharedocx             | (Linux)                | dump docx (send to discord server) |
 | sshme             | (Linux)                | dump public ip, enable ssh allow port forwarding using ngrok (send to discord server) |
 | notime             | (Linux)                | rename all files with "notime" |
-| changewall             | (Linux)                | change desktop wallpaper to rickroll |
+| changewall             | (Linux)                | change desktop wallpaper to philippine flag |
 | pinoyako             | (Linux)                | change grub background to philippine flag  |
 | makemelaugh             | (Linux)                | play rickroll music (background) |
 | cookiemo             | (Linux)                | dump (firefox, chrome, opera) cookies |
