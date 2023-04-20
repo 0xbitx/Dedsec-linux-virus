@@ -19,3 +19,19 @@
 | mahinanetko             | (Linux)                | edit all networking conf file to blank |
 | paconnect             | (Linux)                | dump all wifi ssid, password (send to discord server) |
 | pashpash             | (Linux) kali/parrot               | change all hacking tool name to "pashpash" |
+
+
+### TESTED ON FOLLOWING:
+* Kali Linux
+* Parrot OS
+* Ubuntu
+
+### PREREQUISITES
+* sudo - [ MUST ]
+
+### LANGUAGE 
+* Python
+
+<h1 align="center"> DISCLAIMER </h1>
+
+<h4 align="center">I'm not responsible for anything you do with this virus, malware, so please only use it for good and educational purposes. </h4>
