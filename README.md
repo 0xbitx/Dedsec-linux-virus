@@ -1,4 +1,4 @@
-<h1 align='center'> Dedsec-linux-virus</h1>
+<h1 align='center'>DEDSEC LINUX VIRUS</h1>
 
 #### DEDSEC LINUX VIRUS COLLECTION
 
