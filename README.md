@@ -11,7 +11,7 @@
 | sharevid             | (Linux)                | dump mp4 (send to discord server) |
 | sharedocx             | (Linux)                | dump docx (send to discord server) |
 | sshme             | (Linux)                | dump public ip, enable ssh allow port forwarding using ngrok (send to discord server) |
-| notime             | (Linux)                | rename all files with "notime" |
+| hulaanmo             | (Linux)                | rename all files with "hulaanmo" |
 | changewall             | (Linux)                | change desktop wallpaper to philippine flag |
 | pinoyako             | (Linux)                | change grub background to philippine flag  |
 | makemelaugh             | (Linux)                | play rickroll music (background) |
