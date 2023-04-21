@@ -16,7 +16,7 @@
 | pinoyako             | (Linux)                | change grub background to philippine flag  |
 | makemelaugh             | (Linux)                | play rickroll music (background) |
 | cookiemo             | (Linux)                | dump (firefox, chrome, opera) cookies |
-| mahinanetko             | (Linux)                | edit all networking conf file to blank |
+| mahinanetko             | (Linux)                | edit all networking conf file to get fully offline |
 | paconnect             | (Linux)                | dump all wifi ssid, password (send to discord server) |
 | pashpash             | (Linux) kali/parrot               | change all hacking tool name to "pashpash" |
 
