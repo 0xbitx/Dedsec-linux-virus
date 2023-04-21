@@ -1,6 +1,6 @@
-# Dedsec-linux-virus
+<h1 align='center'> Dedsec-linux-virus</h1>
 
-#### Dedsec Linux Virus
+#### DEDSEC LINUX VIRUS COLLECTION
 
 |      Name                        |      Target OS     |      Function      |
 |------------------------------|--------------------|--------------------|
