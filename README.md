@@ -1,6 +1,11 @@
-<h1 align='center'>DEDSEC LINUX VIRUS</h1>
+<h1 align='center'>DEDSEC LINUX VIRUS/MALWARE</h1>
+<h4 align='center'> Dedsec Malware is a type of computer malware that has the ability to hide and go unnoticed by the victim. It is called a "silent malware." </h4>
 
-#### DEDSEC LINUX VIRUS COLLECTION
+<p align="center">
+<img src="banner.png width="50%" height="50%">
+</p>
+
+#### DEDSEC LINUX MALWARE COLLECTION
 
 |      Name                        |      Target OS     |      Function      |
 |------------------------------|--------------------|--------------------|
@@ -20,6 +25,10 @@
 | paconnect             | (Linux)                | dump all wifi ssid, password (send to discord server) |
 | pashpash             | (Linux) kali/parrot               | change all hacking tool name to "pashpash" |
 
+### MAIN FEATURES:
+* No Output message while running
+* Fast ang silent
+* Injectable to any python code
 
 ### TESTED ON FOLLOWING:
 * Kali Linux
