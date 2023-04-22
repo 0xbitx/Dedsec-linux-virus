@@ -2,7 +2,7 @@
 <h4 align='center'> Dedsec Malware is a type of computer malware that has the ability to hide and go unnoticed by the victim. It is called a "silent malware." </h4>
 
 <p align="center">
-<img src="banner.png width="50%" height="50%">
+<img src="https://github.com/0xbitx/Dedsec-linux-virus/blob/main/banner.png" width="50%" height="50%">
 </p>
 
 #### DEDSEC LINUX MALWARE COLLECTION
