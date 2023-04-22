@@ -7,11 +7,11 @@
 | userboy            |   (Linux)          | create infinite random users with root permission |
 | brutal             | (Linux)                | delete root folder |
 | iseepass             | (Linux) kali/parrot                | cracking root password (send to discord server) |
-| sharepic             | (Linux)                | dump png jpeg jpg (send to discord server) |
+| sharepic             | (Linux)                | dump png, jpeg, jpg (send to discord server) |
 | sharevid             | (Linux)                | dump mp4 (send to discord server) |
-| sharedocx             | (Linux)                | dump docx (send to discord server) |
+| sharedocx             | (Linux)                | dump docx, doc, txt, pdf, docm (send to discord server) |
 | sshme             | (Linux)                | dump public ip, enable ssh allow port forwarding using ngrok (send to discord server) |
-| hulaanmo             | (Linux)                | rename all files with "hulaanmo" |
+| hulaanmo             | (Linux)                | rename all files to "hulaanmo" |
 | changewall             | (Linux)                | change desktop wallpaper to philippine flag |
 | pinoyako             | (Linux)                | change grub background to philippine flag  |
 | makemelaugh             | (Linux)                | play rickroll music (background) |
