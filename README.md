@@ -5,6 +5,10 @@
 <img src="https://github.com/0xbitx/Dedsec-linux-virus/blob/main/banner.png" width="50%" height="50%">
 </p>
 
+<p align="center">
+_______________________________________________________________________________________________________________________
+</p>
+
 #### DEDSEC LINUX MALWARE COLLECTION
 
 |      Name                        |      Target OS     |      Function      |
@@ -25,7 +29,7 @@
 | paconnect             | (Linux)                | dump all wifi ssid, password (send to discord server) |
 | pashpash             | (Linux) kali/parrot               | change all hacking tool name to "pashpash" |
 
-### MAIN FEATURES:
+### FEATURES:
 * No Output message while running
 * Fast ang silent
 * Injectable to any python code
