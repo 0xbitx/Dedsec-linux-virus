@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 ### FEATURES:
 * No Output message while running
-* Fast ang silent
+* Fast and silent
 * Injectable to any python code
 
 ### TESTED ON FOLLOWING:
